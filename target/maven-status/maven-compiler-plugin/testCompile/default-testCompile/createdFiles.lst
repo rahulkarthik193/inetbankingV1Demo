@@ -1,0 +1,9 @@
+com\banking\PageObjects\AddCustomer.class
+com\banking\PageObjects\LoginPage.class
+com\banking\TestCases\TestCaseDDT.class
+com\banking\TestCases\BaseClass.class
+com\banking\TestCases\TestCase001.class
+com\banking\TestCases\TestCaseAdd002.class
+com\banking\Utilities\Reporting.class
+com\banking\Utilities\XlUtils.class
+com\banking\Utilities\ReadConfig.class
