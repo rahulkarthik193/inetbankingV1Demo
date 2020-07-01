@@ -2,7 +2,7 @@ pipeline
 {
 
 agent any
-{
+
 stages{
 
 stage("Build")
@@ -32,7 +32,6 @@ stage("unit testing")
 steps
 {
 bat mvn compile
-}
 }
 }
 }
